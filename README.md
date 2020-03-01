@@ -20,7 +20,10 @@ PetaPad.exeでメモを編集し、"Peta"ボタンを押すことで同ディレ
 ## Install
 インストールは不要です。zipファイルを解凍して使用してください。  
 PetaPad.exeとPetaView.exeは必ず同じディレクトリに配置してください。  
-初回起動時、同ディレクトリにpeta.bmpとsettingsファイルを生成します。  
+初回起動時、同ディレクトリにpeta.bmpとsettingsファイルを生成します。
+
+## License
+Copyright © 2020 Mi_kyuu. All rights reserved.
 
 ## Author
 
