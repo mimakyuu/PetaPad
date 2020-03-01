@@ -7,7 +7,7 @@ PetaPad
 PetaPadはデスクトップに張り付ける付箋です。常に最前面に位置しますが、半透明なので背面が見通せ、さらにマウス操作は付箋をすり抜けるため、背面にあるオブジェクトの操作をすることが可能です。
 
 ## Demo
-![PetaPad](https://imgur.com/a/X3rbAd8)
+![PetaPad](https://i.imgur.com/acAwBy1.gif)
 
 ## Requirement
 Windows XP 以降  
