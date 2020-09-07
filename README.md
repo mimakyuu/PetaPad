@@ -13,7 +13,7 @@ PetaPadはデスクトップに張り付ける付箋です。常に最前面に�
 ![PetaPad](https://i.imgur.com/acAwBy1.gif)
 
 ## Requirement
-Windows XP 以降  
+Windows XP or later.   
 
 ## Usage
 PetaPad.exeでメモを編集し、"Peta"ボタンを押すことで同ディレクトリのPetaView.exeが起動、張り付きます。  
