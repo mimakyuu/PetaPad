@@ -3,7 +3,7 @@ PetaPad
 
 半透明で背面ウインドウやデスクトップのマウス操作ができる付箋  
   
-A semi-transparent sticky note for Windows, PetaPad allows you to manipulate objects under the sticky note.
+Semi-transparent sticky note for Windows, PetaPad allows you to manipulate objects under the sticky note.
   
 Version 1.00 (2020/03)   
 SHA-256 : 6a9c645c42d64967e1d2aa044f00a994d7cd1e19aae330e5e698232ed77e6ca2
